@@ -1,0 +1,10 @@
+streamlit>=1.39
+pandas>=2.0
+numpy>=1.24
+plotly==5.24.1
+matplotlib>=3.7
+reportlab>=4.0
+kaleido==0.2.1
+
+
+
